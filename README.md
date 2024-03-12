@@ -12,6 +12,9 @@ Hello! My name is Karthik and I am a motivated computer science graduate student
 - JavaScript
 - SQL
 - NoSQL
+- Spark
+- Kafka
+- ElasticSearch
 - React
 - Django
 - Node.js
